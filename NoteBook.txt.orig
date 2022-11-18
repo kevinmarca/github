@@ -2,6 +2,10 @@ sexto commit
 septimo commit
 cuarto commit
 quinto commit
+<<<<<<< HEAD
+octavo commit
+=======
 octavo commit
 noveno commit
 decimo commit
+>>>>>>> Dev-Kevin-features
